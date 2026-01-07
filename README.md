@@ -1,1 +1,1 @@
-# testapp
+# url-validator-mcp
